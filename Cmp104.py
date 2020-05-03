@@ -1,3 +1,7 @@
+# Name: Adegbe O. Anthony
+# Matric. No.: BHU/19/04/05/0084
+# Department: Computer Science
+
 import math
 
 
